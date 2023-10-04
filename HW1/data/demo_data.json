@@ -1,0 +1,40 @@
+{
+    "Users": 
+        [
+            "Arthur", "John", "Lebron", "Kobe", "Cpt. Price", "Ezio"
+        ],
+        
+    "Activities":
+        [
+            {
+                "author": "Arthur",
+                "name":"Tennis",
+                "dt":"2023,10,10,18,45",
+                "place":"Wimbledone, Gr. Britain"
+            },
+            {
+                "author": "Lebron",
+                "name":"Basketball",
+                "dt":"2023,12,21,10,30",
+                "place":"MSG, NY"
+            },
+            {
+                "author": "Kobe",
+                "name":"Basketball",
+                "dt":"2024,01,01,4,0",
+                "place":"Basket Hall, Kazan"
+            },
+            {
+                "author": "John",
+                "name":"Volleyball",
+                "dt":"2024,2,21,16,15",
+                "place":"Sportcomplex, Innopolis"
+            },
+            {
+                "author": "Cpt. Price",
+                "name":"Football",
+                "dt":"2024,3,8,17,0",
+                "place":"Dubai"
+            }
+        ]
+}
